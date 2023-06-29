@@ -1,0 +1,18 @@
+{
+  "resourceName": "s3content323",
+  "policyUUID": "0d11ff77",
+  "bucketName": "ampproject1",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
